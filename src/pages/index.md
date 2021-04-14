@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Test Tes Test Blah
+title: Test Title
 image: /img/uvl-mobile-1920-768.jpeg
 heading: Amazing title.
 subheading: Blah blah blah!
