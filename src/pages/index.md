@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Great GIFs with a conscience
-image: /img/giphy.gif
+image: /img/uvl-mobile-1920-768.jpeg
 heading: Great coffee with a conscience
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
