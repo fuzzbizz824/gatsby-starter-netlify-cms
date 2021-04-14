@@ -2,8 +2,8 @@
 templateKey: index-page
 title: Great GIFs with a conscience
 image: /img/uvl-mobile-1920-768.jpeg
-heading: Great GIFs with a conscience
-subheading: Blah blah blah
+heading: Amazing title.
+subheading: Blah blah blah!
 mainpitch:
   title: Why?
   description: >
